@@ -10,3 +10,4 @@ Please be sure to read the wiki fully before opening any issues or reporting to 
 
 You can also contact us on our discord server
 + [Discord Invite](https://discordapp.com/invite/015LXKQtMT3TaYdSj "Folding@Home")
+> Note: This is not an official discord server for Folding@Home or OCN "Overclock.net"
