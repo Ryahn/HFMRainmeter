@@ -14,7 +14,7 @@ Attach all the clients you want to see info for to your HFM. They will be includ
 summary.html file which Rainmeter will then parse for the information to display.
 
 Open up your HFM Preferences menu and configure it to generate a local web page at an interval of your liking.
-The Target Path is where the summary.html will be generated, so make sure to properly input the full path as URL2.
+The Target Path is where the summary.html will be generated, so make sure to properly input the full path as URL2.s
 
 
 ###Setup
@@ -53,8 +53,8 @@ so in order to add more clients, paste for each at the end of the line but with 
 
  * Autodetection of the number of running clients and adjusting the stat fields accordingly.
 
- 
- 
+
+
 ## Contributors
 
  * [Ryahn][2]
